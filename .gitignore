@@ -3,3 +3,11 @@ __pycache__/
 data/*
 .env
 *.env
+csc786-ethics-demo/
+.config/
+sample_data/
+.ipynb_checkpoints/
+__pycache__/
+data/*
+.env
+*.env
